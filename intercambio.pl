@@ -1,10 +1,12 @@
-% Lógica para Engenharia de Computação
+% Programação Lógica e Inteligência Artificial
 % Racha Cuca - Feira de Intercâmbio
-% 02/08/2022
+% 12/01/2023
 % https://rachacuca.com.br/logica/problemas/feira-de-intercambio/
 %
 % Bruna Isabela de Oliveira
-% 12011ECP004
+% Gabriel Resende Soares
+% Izabela da Silva Neves
+% João Pedro Pachecho do Nascimento
 %
 % ----------------------------------------------
 
